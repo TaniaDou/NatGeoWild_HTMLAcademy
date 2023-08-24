@@ -86,6 +86,8 @@ img {
 .controls {
     display: flex;
     gap: 0 35px;
+    list-style-type: none;
+    margin-right: 48px;
   }
   
   .controls__button {
